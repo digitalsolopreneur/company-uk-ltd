@@ -1,0 +1,23 @@
+{
+  "name": "company-uk-ltd",
+  "version": "0.0.2",
+  "description": "as a first example implementation that fullfillfs \"abstract-company\"",
+  "main": "SOURCE/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalsolopreneur/company-uk-ltd.git"
+  },
+  "keywords": [
+    "company",
+    "implementation"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalsolopreneur/company-uk-ltd/issues"
+  },
+  "homepage": "https://github.com/digitalsolopreneur/company-uk-ltd#readme"
+}
